@@ -1,15 +1,6 @@
-# Online Bookstore System
+# ✨ Welcome to the Online Bookstore Project
 
 The Online Bookstore System is a simple Java application that simulates an online bookstore using object-oriented programming. It allows users to purchase books, leave reviews, control inventory, and process payments. It only uses the Java standard library, so no external dependencies are required.
-
-## Table of Contents
-
-- [Online Bookstore System](#online-bookstore-system)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-  - [Usage](#usage)
-  - [License](#license)
 
 ## Features
 
