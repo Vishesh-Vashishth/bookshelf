@@ -28,13 +28,13 @@ To run the Online Bookstore System, you need to have Java installed on your mach
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/CodeByAidan/online-bookstore-system.git
+git clone https://github.com/Vishesh-Vashishth/bookshelf.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd online-bookstore-system/src/bookstore
+cd bookshelf/src
 ```
 
 3. Compile the Java source code:
@@ -46,13 +46,13 @@ javac *.java
 4. Run the application:
 
 ```bash
-java Bookstore
+java bookshelf
 ```
 
 ## Usage
 
 > [!NOTE]
-> For context, see the main class [Bookstore.java](https://github.com/CodeByAidan/online-bookstore-system/blob/main/src/bookstore/Bookstore.java), which contains the main method.
+> For context, see the main class [Bookstore.java](https://github.com/Vishesh-Vashishth/bookshelf/blob/main/src/Bookstore.java), which contains the main method.
 
 1. **Adding Books to Inventory:**
 - Login as an admin with the username "admin" and password "admin123".
